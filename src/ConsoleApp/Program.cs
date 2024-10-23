@@ -13,6 +13,7 @@ namespace ConsoleApp
             Console.WriteLine("Hi there!");
 
             int a = 0;
+            int b = 0;
         }
     }
 }
